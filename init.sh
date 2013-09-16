@@ -1,0 +1,1 @@
+../medusa/bin/medusa mirror medusa.json
