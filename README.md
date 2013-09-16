@@ -5,8 +5,4 @@ medusa skeleton
 
 This will make your life easier to setup satis + medusa
 
-cp satis.json.dist satis.json
-
-../medusa/bin/medusa mirror
-
-../satis/bin/satis
+Read the [blog post](http://www.craftitonline.com/2013/09/medusa-satis-effective-mobile-work-on-symfony2-components-projects/)!
