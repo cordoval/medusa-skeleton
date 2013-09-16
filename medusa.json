@@ -3,13 +3,12 @@
     "repositories": [
         {
             // pseudo package name; used for repo directory structure
-            "name": "cordoval/package",
-            "url": "git@github:cordoval/package.git"
+            //"name": "cordoval/package",
+            //"url": "git@github:cordoval/package.git"
         }
     ],
     "require": [
-        "vendor/package",
-        "othervendor/otherpackage"
+        "phpspec/phpspec"
         //... List all the packages you want here, there dependencies can be
         // auto downloaded as well
     ],

@@ -1,8 +1,9 @@
 {
-    "name": "My Repository",
-    "homepage": "http://packages.example.org",
+    "name": "My Local Repository",
+    "homepage": "http://craftitonline.com",
     "repositories": [
         // Optionally list repositories not updateable by medusa
     ],
-    "require-all": true // if you want to also mirror the dependencies from each package
+    "require-all": true
+    // if you want to also mirror the dependencies from each package
 }
