@@ -1,0 +1,7 @@
+{
+    "name": "My Local Repository",
+    "homepage": "http://craftitonline.com",
+    "repositories": [
+    ],
+    "require-all": true
+}
